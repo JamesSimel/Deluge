@@ -1,0 +1,7 @@
+info "Deluge for Zoho Platform";
+tel_number = 10;
+if (tel_number >= 10){
+  info "Yes";
+else {
+  info "No"
+}
